@@ -1,3 +1,3 @@
-# API RESTful con Go y MongoDB
+# API RESTful, Go and MongoDB.
 
 
